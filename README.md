@@ -1,6 +1,7 @@
 # -_-
 
 Литература
+
 Геннадий Алпаев, «Software Testing Automation Tips, 50 Things Automation Engineers Should Know»
 
 Lisa Crispin, «Agile Testing: A Practical Guide for Testers and Agile Teams». 
